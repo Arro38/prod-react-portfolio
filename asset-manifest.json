@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e39e6861.css",
+    "main.js": "/static/js/main.18ef5ad3.js",
+    "static/media/RobotoFlex.ttf": "/static/media/RobotoFlex.fafa11d23dfa96874c89.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "index.html": "/index.html",
+    "main.e39e6861.css.map": "/static/css/main.e39e6861.css.map",
+    "main.18ef5ad3.js.map": "/static/js/main.18ef5ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e39e6861.css",
+    "static/js/main.18ef5ad3.js"
+  ]
+}
