@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.215b90be.css",
-    "main.js": "/static/js/main.18ef5ad3.js",
-    "static/media/RobotoFlex.ttf": "/static/media/RobotoFlex.fafa11d23dfa96874c89.ttf",
-    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
-    "index.html": "/index.html",
-    "main.215b90be.css.map": "/static/css/main.215b90be.css.map",
-    "main.18ef5ad3.js.map": "/static/js/main.18ef5ad3.js.map"
+    "main.css": "/prod-react-portfolio/static/css/main.215b90be.css",
+    "main.js": "/prod-react-portfolio/static/js/main.18ef5ad3.js",
+    "static/media/RobotoFlex.ttf": "/prod-react-portfolio/static/media/RobotoFlex.fafa11d23dfa96874c89.ttf",
+    "static/media/OpenSans-Regular.ttf": "/prod-react-portfolio/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "index.html": "/prod-react-portfolio/index.html",
+    "main.215b90be.css.map": "/prod-react-portfolio/static/css/main.215b90be.css.map",
+    "main.18ef5ad3.js.map": "/prod-react-portfolio/static/js/main.18ef5ad3.js.map"
   },
   "entrypoints": [
     "static/css/main.215b90be.css",
